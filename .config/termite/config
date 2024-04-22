@@ -1,0 +1,75 @@
+[options]
+allow_bold = true
+#audible_bell = false
+#bold_is_bright = true
+#cell_height_scale = 1.0
+#cell_width_scale = 1.0
+clickable_url = true
+dynamic_title = true
+font =  DejaVuSansMono Nerd Font 12
+#fullscreen = true
+#icon_name = terminal
+#mouse_autohide = false
+#scroll_on_output = false
+#scroll_on_keystroke = true
+# Length of the scrollback buffer, 0 disabled the scrollback buffer
+# and setting it to a negative value means "infinite scrollback"
+scrollback_lines = 10000
+#search_wrap = true
+#urgent_on_bell = true
+#hyperlinks = false
+
+# $BROWSER is used by default if set, with xdg-open as a fallback
+browser = xdg-open
+
+# "system", "on" or "off"
+cursor_blink = system
+
+# "block", "underline" or "ibeam"
+cursor_shape = block
+
+# Hide links that are no longer valid in url select overlay mode
+#filter_unmatched_urls = true
+
+# Emit escape sequences for extra modified keys
+#modify_other_keys = false
+
+# set size hints for the window
+#size_hints = false
+
+# "off", "left" or "right"
+#scrollbar = off
+
+# ====================================
+[colors]
+
+# https://github.com/chriskempson/base16-xresources/blob/master/base16-summerfruit.dark.256.xresources
+# Base16 Summerfruit
+# Scheme: Christopher Corley (http://cscorley.github.io/)
+foreground=#D0D0D0
+background=#151515
+cursor=#D0D0D0
+
+color0=#151515
+color1=#FF0086
+color2=#00C918
+color3=#ABA800
+color4=#3777E6
+color5=#AD00A1
+color6=#1faaaa
+color7=#D0D0D0
+color8=#505050
+color9=#FF0086
+color10=#00C918
+color11=#ABA800
+color12=#3777E6
+color13=#AD00A1
+color14=#1faaaa
+color15=#FFFFFF
+
+color16=#FD8900
+color17=#cc6633
+color18=#202020
+color19=#303030
+color20=#B0B0B0
+color21=#E0E0E0

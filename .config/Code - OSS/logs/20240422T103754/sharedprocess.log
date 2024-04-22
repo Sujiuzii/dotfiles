@@ -1,0 +1,111 @@
+2024-04-22 10:37:55.771 [info] Started initializing default profile extensions in extensions installation folder. file:///home/suhui/.vscode-oss/extensions
+2024-04-22 10:37:55.856 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/suhui/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/suhui/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-04-22 10:37:55.856 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/suhui/.vscode-oss/extensions
+2024-04-22 10:38:22.646 [info] Getting Manifest... dracula-theme.theme-dracula
+2024-04-22 10:38:22.966 [info] Installing extension: dracula-theme.theme-dracula
+2024-04-22 10:38:24.428 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-04-22 10:38:24.441 [info] Extension signature verification is not done: dracula-theme.theme-dracula
+2024-04-22 10:38:24.462 [info] Extracted extension to file:///home/suhui/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2-universal: dracula-theme.theme-dracula
+2024-04-22 10:38:24.465 [info] Renamed to /home/suhui/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2-universal
+2024-04-22 10:38:24.466 [info] Extracting extension completed. dracula-theme.theme-dracula
+2024-04-22 10:38:24.473 [info] Extension installed successfully: dracula-theme.theme-dracula
+2024-04-22 10:38:24.549 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-22 10:38:40.150 [info] Getting Manifest... ms-python.python
+2024-04-22 10:38:40.465 [info] Installing extension: ms-python.python
+2024-04-22 10:38:40.823 [info] Getting Manifest... ms-python.debugpy
+2024-04-22 10:38:41.554 [info] Installing extension: ms-python.debugpy
+2024-04-22 10:38:51.962 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-04-22 10:38:51.965 [info] Extension signature verification is not done: ms-python.debugpy
+2024-04-22 10:38:52.248 [info] Extracted extension to file:///home/suhui/.vscode-oss/extensions/ms-python.debugpy-2024.4.0-linux-x64: ms-python.debugpy
+2024-04-22 10:38:52.252 [info] Renamed to /home/suhui/.vscode-oss/extensions/ms-python.debugpy-2024.4.0-linux-x64
+2024-04-22 10:38:52.253 [info] Extracting extension completed. ms-python.debugpy
+2024-04-22 10:38:52.342 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-22 10:38:55.106 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-04-22 10:38:55.108 [info] Extension signature verification is not done: ms-python.python
+2024-04-22 10:38:56.201 [info] Extracted extension to file:///home/suhui/.vscode-oss/extensions/ms-python.python-2024.4.1-universal: ms-python.python
+2024-04-22 10:38:56.206 [info] Renamed to /home/suhui/.vscode-oss/extensions/ms-python.python-2024.4.1-universal
+2024-04-22 10:38:56.209 [info] Extracting extension completed. ms-python.python
+2024-04-22 10:38:56.216 [info] Extension installed successfully: ms-python.debugpy
+2024-04-22 10:38:56.216 [info] Extension installed successfully: ms-python.python
+2024-04-22 10:38:56.290 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-22 10:40:25.103 [info] Getting Manifest... vscodevim.vim
+2024-04-22 10:40:25.528 [info] Installing extension: vscodevim.vim
+2024-04-22 10:40:30.852 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-04-22 10:40:30.855 [info] Extension signature verification is not done: vscodevim.vim
+2024-04-22 10:40:30.892 [info] Extracted extension to file:///home/suhui/.vscode-oss/extensions/vscodevim.vim-1.27.2-universal: vscodevim.vim
+2024-04-22 10:40:30.895 [info] Renamed to /home/suhui/.vscode-oss/extensions/vscodevim.vim-1.27.2-universal
+2024-04-22 10:40:30.896 [info] Extracting extension completed. vscodevim.vim
+2024-04-22 10:40:30.901 [info] Extension installed successfully: vscodevim.vim
+2024-04-22 10:40:30.975 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-22 10:43:34.048 [info] Getting Manifest... bierner.markdown-preview-github-styles
+2024-04-22 10:43:34.357 [info] Installing extension: bierner.markdown-preview-github-styles
+2024-04-22 10:43:36.708 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-04-22 10:43:36.710 [info] Extension signature verification is not done: bierner.markdown-preview-github-styles
+2024-04-22 10:43:36.831 [info] Extracted extension to file:///home/suhui/.vscode-oss/extensions/bierner.markdown-preview-github-styles-0.1.6-universal: bierner.markdown-preview-github-styles
+2024-04-22 10:43:36.834 [info] Renamed to /home/suhui/.vscode-oss/extensions/bierner.markdown-preview-github-styles-0.1.6-universal
+2024-04-22 10:43:36.835 [info] Extracting extension completed. bierner.markdown-preview-github-styles
+2024-04-22 10:43:36.840 [info] Extension installed successfully: bierner.markdown-preview-github-styles
+2024-04-22 10:43:36.894 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-22 10:43:56.678 [info] Getting Manifest... tomoki1207.pdf
+2024-04-22 10:43:57.905 [info] Installing extension: tomoki1207.pdf
+2024-04-22 10:44:01.234 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-04-22 10:44:01.236 [info] Extension signature verification is not done: tomoki1207.pdf
+2024-04-22 10:44:01.405 [info] Extracted extension to file:///home/suhui/.vscode-oss/extensions/tomoki1207.pdf-1.2.2-universal: tomoki1207.pdf
+2024-04-22 10:44:01.409 [info] Renamed to /home/suhui/.vscode-oss/extensions/tomoki1207.pdf-1.2.2-universal
+2024-04-22 10:44:01.410 [info] Extracting extension completed. tomoki1207.pdf
+2024-04-22 10:44:01.415 [info] Extension installed successfully: tomoki1207.pdf
+2024-04-22 10:44:01.418 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
