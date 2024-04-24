@@ -1,7 +1,0 @@
-{
-    "workbench.colorTheme": "Dracula",
-    "window.menuBarVisibility": "hidden",
-    "vim.cursorStylePerMode.insert": "line",
-    "vim.cursorStylePerMode.normal": "block",
-    "vim.enableNeovim": true
-}

@@ -1,0 +1,21 @@
+2024-04-23 22:12:58.362 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-23 22:12:58.362 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-23 22:12:58.362 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-04-23 22:12:58.362 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-23 22:12:58.362 [info] Experiment 'pythonTestAdapter' is active
+2024-04-23 22:12:58.362 [info] Default formatter is set to null for workspace /home/suhui/Projects/Hackergame
+2024-04-23 22:12:58.362 [info] Test server listening.
+2024-04-23 22:12:58.362 [info] Python interpreter path: ./hackergame/bin/python
+2024-04-23 22:12:58.388 [info] > pyenv which python
+2024-04-23 22:12:58.388 [info] cwd: .
+2024-04-23 22:12:58.446 [info] > conda info --json
+2024-04-23 22:12:58.476 [info] > . ./hackergame/bin/activate.fish && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariables.py
+2024-04-23 22:12:58.476 [info] shell: fish
+2024-04-23 22:12:58.805 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariables.py
+2024-04-23 22:12:58.805 [info] shell: fish
+2024-04-23 22:12:59.842 [info] Prepending environment variable PATH in collection with /home/suhui/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/fish:/home/suhui/Projects/Hackergame/hackergame/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-04-23 22:12:59.842 [info] Setting environment variable _OLD_FISH_PROMPT_OVERRIDE in collection to /home/suhui/Projects/Hackergame/hackergame {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-04-23 22:12:59.842 [info] Setting environment variable VIRTUAL_ENV in collection to /home/suhui/Projects/Hackergame/hackergame {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-04-23 22:12:59.842 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (hackergame)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-04-23 22:12:59.843 [info] Send text to terminal: /bin/python /home/suhui/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /home/suhui/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/fish/envVars.txt
+2024-04-23 22:13:00.384 [info] Starting Pylance language server.

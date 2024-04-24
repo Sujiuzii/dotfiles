@@ -1,2 +1,19 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
 [MainWindow]
 ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/linuxqq/temp_report.pdf
+File2[$e]=$HOME/Documents/ustc_cyber_security/12 计算机安全/homework.pdf
+File3[$e]=$HOME/Books/Others/《力学与理论力学 (第二版) 》习题解答 -- 杨维纮 -- “十二五”普通高等教育本科国家级规划教材配套教材, 2, 2016 -- 科学出版社 -- 9787030467546 -- 5efe8e56803e2bdebe23f5bf6ba0cbc2 -.pdf
+File4[$e]=$HOME/Downloads/linuxqq/【二级Crypto】Part 2 块密码AES.pdf
+Name1[$e]=temp_report.pdf
+Name2[$e]=homework.pdf
+Name3[$e]=《力学与理论力学 (第二版) 》习题解答 -- 杨维纮 -- “十二五”普通高等教育本科国家级规划教材配套教材, 2, 2016 -- 科学出版社 -- 9787030467546 -- 5efe8e56803e2bdebe23f5bf6ba0cbc2 -.pdf
+Name4[$e]=【二级Crypto】Part 2 块密码AES.pdf

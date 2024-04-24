@@ -1,0 +1,29 @@
+2024-04-23 22:15:24.796 [info] Configuration changed
+2024-04-23 22:15:24.810 [info] Configuration changed
+2024-04-23 22:18:32.947 [info] Configuration changed
+2024-04-23 22:19:57.431 [info] Active editor: file:///home/suhui/dotfiles/.config/fcitx5/conf/cached_layouts
+2024-04-23 22:19:58.443 [info] /home/suhui/dotfiles/.config/fcitx5/conf/cached_layouts closed
+2024-04-23 22:20:24.327 [info] /home/suhui/dotfiles/.config/fcitx5/conf/cached_layouts.git closed
+2024-04-23 22:20:30.749 [info] /home/suhui/.config/Code/User/settings.json closed
+2024-04-23 22:20:30.757 [info] Configuration changed
+2024-04-23 22:20:31.641 [info] /home/suhui/.config/Code/User/settings.json closed
+2024-04-23 22:20:31.651 [info] Configuration changed
+2024-04-23 22:20:37.613 [info] /home/suhui/.config/Code/User/settings.json closed
+2024-04-23 22:20:37.626 [info] Configuration changed
+2024-04-23 22:20:39.567 [info] Active editor: file:///home/suhui/dotfiles/.config/fcitx5/conf/cached_layouts
+2024-04-23 22:20:45.461 [info] Executing :q
+2024-04-23 22:20:48.139 [info] Executing :q!
+2024-04-23 22:20:48.214 [info] /home/suhui/dotfiles/.config/fcitx5/conf/cached_layouts closed
+2024-04-23 22:20:48.214 [info] /home/suhui/dotfiles/.config/fcitx5/conf/cached_layouts.git closed
+2024-04-23 22:20:48.214 [warning] getLineLength() called with out-of-bounds line 221
+2024-04-23 22:20:48.214 [warning] getLineLength() called with out-of-bounds line 221
+2024-04-23 22:20:51.379 [info] Active editor: file:///home/suhui/dotfiles/.config/fcitx5/conf/classicui.conf
+2024-04-23 22:21:39.707 [info] Executing :q!
+2024-04-23 22:21:39.727 [info] /home/suhui/dotfiles/.config/fcitx5/conf/classicui.conf closed
+2024-04-23 22:21:39.727 [info] /home/suhui/dotfiles/.config/fcitx5/conf/classicui.conf.git closed
+2024-04-23 22:21:39.727 [warning] getLineLength() called with out-of-bounds line 9
+2024-04-23 22:21:39.727 [warning] invalid cursor position. [[9, 5] | [9, 5]].
+2024-04-23 22:22:42.192 [info] /home/suhui/.config/Code/User/settings.json closed
+2024-04-23 22:22:42.204 [info] Configuration changed
+2024-04-23 22:24:12.204 [info] /home/suhui/.config/Code/User/settings.json closed
+2024-04-23 22:24:12.219 [info] Configuration changed

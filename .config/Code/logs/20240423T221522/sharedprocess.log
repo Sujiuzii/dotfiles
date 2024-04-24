@@ -1,0 +1,14 @@
+2024-04-23 22:18:27.665 [info] Getting Manifest... alefragnani.project-manager
+2024-04-23 22:18:27.675 [info] Installing extension: alefragnani.project-manager
+2024-04-23 22:18:32.794 [warning] Extension signature verification failed with error 'UnknownError': alefragnani.project-manager
+2024-04-23 22:18:32.857 [info] Extracted extension to file:///home/suhui/.vscode/extensions/alefragnani.project-manager-12.8.0: alefragnani.project-manager
+2024-04-23 22:18:32.860 [info] Renamed to /home/suhui/.vscode/extensions/alefragnani.project-manager-12.8.0
+2024-04-23 22:18:32.862 [info] Extracting extension completed. alefragnani.project-manager
+2024-04-23 22:18:32.869 [info] Extension installed successfully: alefragnani.project-manager
+2024-04-23 22:18:32.945 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/suhui/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)

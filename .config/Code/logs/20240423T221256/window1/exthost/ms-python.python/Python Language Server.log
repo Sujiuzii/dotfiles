@@ -1,0 +1,16 @@
+2024-04-23 22:12:59.858 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-23 22:13:00.372 [info] [Info  - 22:13:00] (20243) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-23 22:13:00.374 [info] [Info  - 22:13:00] (20243) Server root directory: file:///home/suhui/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-23 22:13:00.374 [info] [Info  - 22:13:00] (20243) Starting service instance "Hackergame"
+2024-04-23 22:13:00.405 [info] [Info  - 22:13:00] (20243) Setting pythonPath for service "Hackergame": "/home/suhui/Projects/Hackergame/hackergame/bin/python"
+2024-04-23 22:13:00.405 [info] [Info  - 22:13:00] (20243) Setting environmentName for service "Hackergame": "3.11.8 (hackergame venv)"
+2024-04-23 22:13:00.430 [info] [Info  - 22:13:00] (20243) Assuming Python version 3.11.8.final.0
+2024-04-23 22:13:00.498 [info] [Info  - 22:13:00] (20243) Auto-excluding /home/suhui/Projects/Hackergame/hackergame
+2024-04-23 22:13:00.500 [info] [Info  - 22:13:00] (20243) Found 2 source files
+2024-04-23 22:13:00.811 [info] [Info  - 22:13:00] (20243) Background analysis(1) root directory: file:///home/suhui/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-23 22:13:00.813 [info] [Info  - 22:13:00] (20243) Background analysis(1) started
+2024-04-23 22:13:00.976 [info] [Info  - 22:13:00] (20243) Indexer background runner(2) root directory: file:///home/suhui/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-23 22:13:00.976 [info] [Info  - 22:13:00] (20243) Indexing(2) started
+2024-04-23 22:13:01.371 [info] [Info  - 22:13:01] (20243) scanned(2) 48 files over 1 exec env
+2024-04-23 22:13:02.071 [info] [Info  - 22:13:02] (20243) indexed(2) 30 files over 1 exec env
+2024-04-23 22:13:02.161 [info] [Info  - 22:13:02] (20243) Indexing finished(2).

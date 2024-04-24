@@ -1,0 +1,2 @@
+2024-04-23 22:03:07.627 [error] electron #31: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_PROXY_CONNECTION_FAILED
+2024-04-23 22:03:12.802 [error] electron #30: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT

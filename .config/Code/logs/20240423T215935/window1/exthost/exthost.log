@@ -1,0 +1,39 @@
+2024-04-23 21:59:37.164 [info] Extension host with pid 18859 started
+2024-04-23 21:59:37.302 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-23 21:59:37.342 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-23 21:59:37.400 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-23 21:59:37.492 [info] Eager extensions activated
+2024-04-23 21:59:37.507 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-23 21:59:37.510 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-23 21:59:58.140 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-23 22:00:45.622 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-23 22:00:45.688 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-23 22:04:02.188 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-04-23 22:04:03.291 [error] Error: ENOENT: no such file or directory, open '/home/suhui/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-04-23 22:04:18.271 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onWalkthrough:copilotWelcome'
+2024-04-23 22:04:18.513 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-04-23 22:04:18.700 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-04-23 22:05:37.503 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onWalkthrough:jupyterWelcome'
+2024-04-23 22:05:38.594 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-04-23 22:05:42.139 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-04-23 22:05:43.332 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2024-04-23 22:06:01.200 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onWalkthrough:cppWelcome'
+2024-04-23 22:09:00.952 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-23 22:09:01.001 [error] Canceled: Canceled
+    at new O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+    at u.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+    at Proxy.F.<computed>.T.charCodeAt.F.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+    at E.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+    at d.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+    at /home/suhui/.vscode/extensions/github.copilot-1.181.0/extension/src/auth.ts:140:18
+    at new Promise (<anonymous>)
+    at handleAuthenticationError (/home/suhui/.vscode/extensions/github.copilot-1.181.0/extension/src/auth.ts:124:12)
+    at attemptAuthentication (/home/suhui/.vscode/extensions/github.copilot-1.181.0/extension/src/auth.ts:88:19)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2024-04-23 22:09:01.009 [error] Error: ENOENT: no such file or directory, open '/home/suhui/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-04-23 22:09:01.023 [info] Extension host with pid 18859 exiting with code 0
