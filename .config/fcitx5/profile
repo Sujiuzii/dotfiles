@@ -18,21 +18,6 @@ Name=rime
 # Layout
 Layout=
 
-[Groups/1]
-# Group Name
-Name="Group 2"
-# Layout
-Default Layout=gb
-# Default Input Method
-DefaultIM=keyboard-gb
-
-[Groups/1/Items/0]
-# Name
-Name=keyboard-gb
-# Layout
-Layout=
-
 [GroupOrder]
 0="Group 1"
-1="Group 2"
 

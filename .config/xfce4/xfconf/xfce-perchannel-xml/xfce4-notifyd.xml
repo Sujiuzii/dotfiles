@@ -4,9 +4,13 @@
   <property name="log-max-size-enabled" type="bool" value="true"/>
   <property name="applications" type="empty">
     <property name="known_applications" type="array">
+      <value type="string" value="blueman"/>
+      <value type="string" value="Feishu"/>
       <value type="string" value="Firefox"/>
       <value type="string" value="flameshot"/>
+      <value type="string" value="Input Method"/>
       <value type="string" value="notify-send"/>
+      <value type="string" value="org.kde.kdenlive"/>
       <value type="string" value="QQ"/>
       <value type="string" value="Rime"/>
       <value type="string" value="Spotify"/>

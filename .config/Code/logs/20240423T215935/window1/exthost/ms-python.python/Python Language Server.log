@@ -1,8 +1,0 @@
-2024-04-23 22:05:44.575 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
-2024-04-23 22:05:45.082 [info] [Info  - 22:05:45] (19240) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
-2024-04-23 22:05:45.082 [info] [Info  - 22:05:45] (19240) Server root directory: file:///home/suhui/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
-2024-04-23 22:06:01.180 [info] [Info  - 22:06:01] Server process exited successfully
-2024-04-23 22:06:01.912 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
-2024-04-23 22:06:02.475 [info] [Info  - 22:06:02] (19282) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
-2024-04-23 22:06:02.479 [info] [Info  - 22:06:02] (19282) Server root directory: file:///home/suhui/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
-2024-04-23 22:09:01.019 [info] [Info  - 22:09:01] Server process exited successfully

@@ -28,6 +28,7 @@ bindsym $mod+d exec --no-startup-id bash ~/.config/polybar/forest/scripts/launch
 # screen shot
 bindsym $mod+Shift+z exec flameshot gui
 bindsym $mod+Shift+p exec i3lock-fancy -f Noto-Sans-CJK-HK -t "Buy me an icecream~ > <"
+bindsym $mod+Shift+o exec bash ~/.config/polybar/forest/scripts/powermenu.sh
 
 # change focus
 bindsym $mod+j focus left
@@ -145,7 +146,7 @@ for_window [class="Lxappearance"] floating enable sticky enable border normal
 for_window [class="Manjaro-hello"] floating enable
 for_window [class="Manjaro Settings Manager"] floating enable border normal
 for_window [title="MuseScore: Play Panel"] floating enable
-for_window [class="Nitrogen"] floating enable sticky enable border normal
+# for_window [class="Nitrogen"] floating enable sticky enable border normal
 for_window [class="Oblogout"] fullscreen enable
 for_window [class="octopi"] floating enable
 for_window [title="About Pale Moon"] floating enable
@@ -290,3 +291,6 @@ bindsym XF86AudioMute exec --no-startup-id amixer -q set Master toggle
 # touchpad on and off controller on laptop with Fn+<touchpad control functional key>
 bindsym XF86TouchpadOn exec --no-startup-id synclient Touchpadoff=0
 bindsym XF86TouchpadOff exec --no-startup-id synclient Touchpadoff=1
+
+bindsym XF86MonBrightnessUp exec xbacklight -inc 10
+bindsym XF86MonBrightnessDown exec xbacklight -dec 10
