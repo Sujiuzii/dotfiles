@@ -24,11 +24,12 @@ bindsym $mod+Shift+q kill
 # start program launcher
 # bindsym $mod+d exec --no-startup-id rofi -show run
 bindsym $mod+d exec --no-startup-id bash ~/.config/polybar/forest/scripts/launcher.sh
+bindsym $mod+Shift+d exec rofi -modi todo:todominal-rofi -show todo -theme ~/.config/todominal/theme.rasi
 
 # screen shot
 bindsym $mod+Shift+z exec flameshot gui
 bindsym $mod+Shift+p exec i3lock-fancy -f Noto-Sans-CJK-HK -t "Buy me an icecream~ > <"
-bindsym $mod+Shift+o exec bash ~/.config/polybar/forest/scripts/powermenu.sh
+bindsym $mod+Shift+o exec --no-startup-id bash ~/.config/polybar/forest/scripts/powermenu.sh
 
 # change focus
 bindsym $mod+j focus left
