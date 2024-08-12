@@ -85,7 +85,6 @@ plugins=(
   archlinux
   tmux
   fzf
-  ripgrep
   zsh-exa
   web-search
   copydir
@@ -135,3 +134,5 @@ source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 ZVM_VI_EDITOR=nvim
 
 export GEM_HOME=$HOME/.gem
+
+eval $(thefuck --alias)
